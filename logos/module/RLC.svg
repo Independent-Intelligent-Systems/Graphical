@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="RLC.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.85253906"
+     inkscape:cx="114.95074"
+     inkscape:cy="260.98511"
+     inkscape:window-width="1536"
+     inkscape:window-height="841"
+     inkscape:window-x="-8"
+     inkscape:window-y="360"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     style="display:inline">
+    <path
+       style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:25.3482;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+       d="M 12.795851,12.687177 V 499.33546 H 244.87624 c 11.57603,-11.2407 11.88981,-10.03679 15.19339,-13.01671 0.74044,-1.11089 5.48477,-5.74316 6.25636,-6.89213 2.37084,-3.53039 4.36646,-7.24767 5.8519,-10.89807 4.95489,-12.17662 6.74832,-25.4557 8.11726,-60.12974 1.06225,-26.90506 1.37374,-33.96041 1.73368,-39.12078 0.80274,-11.50875 0.0983,-18.67388 -2.62949,-26.70964 -1.52402,-4.48966 -2.17734,-5.77184 -8.75207,-17.16012 -5.77092,-9.99595 -7.42845,-13.62687 -8.84233,-19.36358 -0.72959,-2.96025 -0.84191,-4.40375 -0.81849,-10.64322 0.0331,-8.78411 0.43659,-10.8795 4.48882,-23.26728 3.28995,-10.05755 4.85899,-15.95421 5.73914,-21.57354 0.69528,-4.4393 0.54592,-6.57337 -0.58973,-8.44292 -1.37872,-2.26986 -2.71859,-2.76893 -12.50941,-4.65219 -4.9902,-0.95983 -12.28544,-3.2746 -15.6964,-4.98124 -6.84035,-3.42254 -13.46386,-9.19451 -17.4236,-15.17922 -6.18778,-9.35223 -8.41925,-19.22225 -5.33954,-23.60927 1.26038,-1.79539 2.19166,-2.51301 8.77464,-6.77822 5.847,-3.78836 6.39998,-4.55476 7.30522,-10.11089 2.60863,-16.0114 10.639,-26.46727 28.23158,-36.7592 7.35621,-4.30348 7.94928,-5.49952 6.44805,-13.01768 -1.20177,-6.01843 -1.76148,-13.70275 -1.5532,-21.34771 0.11107,-4.07358 0.38135,-7.988677 0.59938,-8.701039 0.60438,-1.974819 1.827,-3.072463 3.41898,-3.068103 5.24293,0.01321 23.44954,14.302802 30.55175,23.977072 l 1.84966,2.51965 1.96891,-5.93944 c 1.9633,-5.92461 7.17184,-19.389899 8.61352,-22.27039 1.61827,-3.233417 3.07882,-3.942557 5.00441,-2.426096 2.25046,1.772276 6.46958,8.409197 14.33009,22.554306 3.01823,5.43145 7.02618,12.35663 8.90678,15.38569 8.75867,14.10766 18.0835,30.71363 34.6603,61.72026 15.17249,28.37991 20.10646,36.6917 29.20155,49.19941 11.59452,15.9449 18.44657,23.42315 47.85288,52.21268 7.29306,7.14005 13.20544,13.82626 20.7105,23.4318 10.27821,13.15487 16.36743,27.47403 19.43439,45.69579 0.78184,4.64513 2.14734,17.60452 3.36421,31.01336 V 12.687177 Z"
+       id="rect3755"
+       sodipodi:nodetypes="ccccsssssssssssssssssssscccccsssssssssccc" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-size:69.0236px;line-height:1.25;font-family:'Siemens Sans';-inkscape-font-specification:'Siemens Sans';stroke-width:0.431397"
+       x="17.371622"
+       y="489.33945"
+       id="text1442"
+       transform="scale(0.99924756,1.000753)"><tspan
+         sodipodi:role="line"
+         id="tspan1440"
+         x="17.371622"
+         y="489.33945"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:69.0236px;font-family:Gotham;-inkscape-font-specification:Gotham;fill:#000000;stroke-width:0.431397">RLC</tspan></text>
+  </g>
+</svg>
